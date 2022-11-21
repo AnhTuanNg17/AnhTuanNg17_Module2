@@ -1,2 +1,6 @@
-package ss6_inheritance.PointAndMoveablepoin;public class Point {
+package ss6_inheritance.PointAndMoveablepoin;
+
+public class Point {
+
+
 }
