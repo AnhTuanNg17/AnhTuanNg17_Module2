@@ -1,2 +1,4 @@
-package ss5_accesses_modifier;public class demo1 {
+package ss5_accesses_modifier;
+
+public class demo1 {
 }
