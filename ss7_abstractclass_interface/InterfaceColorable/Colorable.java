@@ -1,2 +1,5 @@
-package ss7_abstractclass_interface.InterfaceColorable;public class Colorable {
+package ss7_abstractclass_interface.InterfaceColorable;
+
+public interface Colorable{
+    void howToColor();
 }

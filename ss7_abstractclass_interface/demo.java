@@ -1,2 +1,4 @@
-package ss7_abstractclass_interface;public class demo {
+package ss7_abstractclass_interface;
+
+public class demo {
 }
