@@ -25,6 +25,9 @@ public class EmployeeServiceImpl implements IEmployeeService {
 
     @Override
     public void add(Employee employee) {
+            for (Employee employee1 : employeeList ){
+                System.out.println(employee.toString());
+            }
 
 
 

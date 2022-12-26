@@ -13,7 +13,7 @@ public class validator {
         format.setLenient(false);
         LocalDate birthday= null;
         try {
-          //  birthday = format.parse(birthdayAsString);
+//            birthday = format.parse(birthdayAsString);
             LocalDate birthDay = LocalDate.parse(birthdayAsString);
             LocalDate now = LocalDate.now();
 

@@ -8,7 +8,7 @@ public class BinaryConversion {
         int number = 16;
         int temp;
         Stack<Integer> stack = new Stack<>();
-        System.out.println("\nAfter: ");
+        System.out.println("\nAfter: " + number);
         System.out.println("\nBefore: ");
 
         while (number != 0){

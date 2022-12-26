@@ -1,9 +1,12 @@
 package ss10_java_collection.Practice;
 
+import java.util.Scanner;
+
 public class Product {
     private int id;
     private String name;
     private double price;
+    private Scanner sc = new Scanner(System.in);
 
     public Product() {
     }
@@ -38,6 +41,7 @@ public class Product {
         this.price = price;
     }
 
+
     @Override
     public String toString() {
         return "Product{" +
@@ -45,5 +49,8 @@ public class Product {
                 ", name='" + name + '\'' +
                 ", price=" + price +
                 '}';
+    }
+    public void compareTo(Product product){
+        return;
     }
 }
